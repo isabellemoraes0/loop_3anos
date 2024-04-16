@@ -1,8 +1,10 @@
 h1 {color: rgb(255, 0, 0);
     text-align: center;
+    font-size: 200%;
 }
 h2 { color: brown;
 text-align: center;
+font-size: 150%;
 }
 #texto-animado {
     font-family: 'Arial', sans-serif;
