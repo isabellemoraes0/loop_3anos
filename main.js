@@ -8,7 +8,7 @@ function verificarTime() {
     var respostaTime = prompt("Qual é a melhor serie?");
 
     
-    if (respostaTime.toLowerCase() === "You") {
+    if (respostaTime.toLowerCase() === "you") {
       alert("Isso mesmo! You é a melhor serie!");
       continuarPerguntando = false; // Sai do loop após a resposta correta
     } else {
