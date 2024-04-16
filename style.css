@@ -1,4 +1,8 @@
 h1 {color: rgb(255, 0, 0);
+    text-align: center;
+}
+h2 { color: brown;
+text-align: center;
 }
 #texto-animado {
     font-family: 'Arial', sans-serif;
